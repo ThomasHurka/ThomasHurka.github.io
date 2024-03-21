@@ -1,0 +1,36 @@
+.do {
+    filter:saturate(50%);
+    filter:sepia(100%);
+}
+
+.imagecontainer {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+
+
+
+.image {
+    position: absolute;
+    display: flex;
+    cursor: pointer;
+    width: 10%;
+    height: auto;
+    top: 40%;
+}
+
+#audio {
+    display: none;
+    justify-content: center;
+    width: 10%;
+    height: 10%;
+    font-size: 170%;
+    cursor: pointer;
+}
+
+.audiocontainer {
+    display: flex;
+    justify-content: center;
+}
