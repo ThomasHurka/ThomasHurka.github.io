@@ -1,0 +1,54 @@
+body {
+  background-image: url(thomas.png);
+  background-size: 1150px;
+
+  color: orange
+}
+
+
+.imagecontroller {
+  margin-top: 40%;
+  position: absolute;
+display: flex; 
+justify-content: center;
+}
+
+.textfirst {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgba(215, 130, 46, 255);
+  width: 300px;
+  height: auto;
+}
+
+.textfirst2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgba(215, 130, 46, 255);
+  width: 300px;
+  height: auto;
+  -webkit-text-stroke: 0.5px black;
+}
+
+
+
+.textfirst5 {
+  font-size: medium;
+  display: flex;
+  width: 600px;
+  justify-content: flex-start
+}
+
+
+.html {
+  color: red;
+
+
+}
+
+.textcontainer {
+  -webkit-text-stroke: 0.5px black;
+}
+
+.imagehalf {
+  width: 100px;
+  height: auto;
+}
